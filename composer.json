@@ -1,0 +1,9 @@
+{
+    "name": "aligent/status",
+    "license": "OSL-3.0",
+    "type": "magento-module",
+    "description": "Aligent Status - Magento module to verify if Magento is operating normally.",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
